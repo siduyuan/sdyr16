@@ -1,0 +1,37 @@
+# 编译输出
+*.o
+*.obj
+*.exe
+*.out
+*.elf
+*.bin
+*.hex
+*.srec
+*.map
+
+# 构建目录
+build/
+dist/
+out/
+
+# 日志文件
+*.log
+
+# 编辑器和IDE临时文件
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# 调试文件
+*.pdb
+*.debug
+gmon.out
+
+# 临时文件
+*.tmp
+*.bak
+*.cache
